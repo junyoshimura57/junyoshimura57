@@ -1,9 +1,4 @@
 ## 自己紹介
-
-|key|value|
-|---|-----|
-|Name|吉村　純|
-
 ## 使用したことがある技術
 <p align="center">
   <img src="https://img.shields.io/badge/-Ruby%20on%20Rails-333333?style=flat&logo=ruby-on-rails&logoColor=CC0000">
