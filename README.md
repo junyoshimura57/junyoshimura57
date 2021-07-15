@@ -41,6 +41,6 @@ https://github.com/junyoshimura57/Rails_output
 パスワード:admin  
 
 ### インスタクローン  
-MENTAのサービスを利用し、学習のため作成いたしました。
-【Github】  
+MENTAのサービスを利用し、学習のため作成いたしました。  
+【Github】    
 https://github.com/junyoshimura57/insta_clone
